@@ -1,4 +1,4 @@
-Overview
+**Overview**
 The Stock Market Predictor is a web application built using Streamlit that allows users to predict future stock prices of selected companies. It leverages historical stock data from Yahoo Finance and uses the Prophet forecasting model to generate predictions.
 
 Features
